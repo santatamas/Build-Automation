@@ -1,0 +1,13 @@
+Alap (mindenkinek kotelezo):
+- Hozz letre egy projectet VSOnline-on (visualstudio.com)
+- Toltsd fel az elkeszitett 1. beadandot (mindket reszet!)
+- Konfiguralj 2 build tipust (Rolling, Daily)
+- A sikeres build utan fussanak le a unit tesztek is
+- A napi build statusrol allits be e-mail ertesitest
+- a kovetkezo accountot allitsd be contributornak (ellenorzes miatt!): TempNik@outlook.com
+
+Halado (extra pontert):
+- Regisztralj Azure-ra
+- Hozz letre egy website-ot, amihez tartozik Staging es Production szerver
+- Konfiguralt a build szervered, hogy sikeres build utan automatikusan deployoljon Azureba
+Segitseg: http://azure.microsoft.com/en-us/documentation/articles/cloud-services-continuous-delivery-use-vso/
